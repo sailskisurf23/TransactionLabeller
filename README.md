@@ -1,2 +1,2 @@
 # TransactionLabeller
-Simple text classifier for credit card transactions
+Simple text classifier for my own credit card transactions. See `NBs/TransactionLabeller.ipynb` for implementation.
